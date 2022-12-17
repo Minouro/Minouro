@@ -1,4 +1,4 @@
-### Olá, sou Front-End e Designer UI 👋
+### Olá, sou Front-End e Designer UI/UX 👋
 
 - 🔭 Procurando por emprego
 - 🌱 Estudando React e TypeScript
