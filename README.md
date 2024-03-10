@@ -1,6 +1,6 @@
 ### Olá, sou Front-End e Designer UI/UX 👋
 
-- 🔭 Procurando por emprego
-- 🌱 Estudando React e TypeScript
-- 👯 Também trabalho com Ilustração Digital e SVGs
+- 🔭 Atualmente trabalhando na Hexalab Softwares como UI/UX Designer
+- 🌱 Estudando Python
+- 👯 Estudando Engenharia de Produção na Unesp - Câmpus de Itapeva
 - 🤔 Técnico em Informática para Internet
