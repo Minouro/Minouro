@@ -1,4 +1,4 @@
-### Olá, sou Front-End e Designer UI/UX 👋
+### Olá 👋
 
 - 🖌 Atualmente trabalhando na Hexalab Softwares como UI/UX Designer
 - 🐍 Estudando Python
